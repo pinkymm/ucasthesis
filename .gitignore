@@ -1,0 +1,15 @@
+main.ent
+main.pdf
+.DS_Store
+main.fls
+*.fls
+*.xml
+*.iml
+*.synctex.gz
+*.aux
+*.log
+*.bbl
+*.blg
+*.sublime-workspace
+*.sublime-project
+*.fdb_latexmk
